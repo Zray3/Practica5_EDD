@@ -30,13 +30,13 @@
 }]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
-      <module name="ej5_EEDD" />
+      <module name="practica5_EEDD" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ej5_EEDD" />
+      <module name="practica5_EEDD" />
       <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
